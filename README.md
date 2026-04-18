@@ -52,7 +52,7 @@ Create a `.env` file in the `fmla-app` root folder:
 - **React Native** — Mobile framework
 - **Expo** — Development platform
 - **Expo Router** — File-based navigation
-- **Claude API (Anthropic)** — AI chat assistant
+- **API FOR AI ASSISTANT — AI chat assistant
 - **TypeScript** — Type safety
 
 ---
